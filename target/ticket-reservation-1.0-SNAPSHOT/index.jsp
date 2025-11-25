@@ -4,7 +4,7 @@
     <title>Online Ticket Reservation System</title>
 </head>
 <body>
-    <h1>Welcome to the Online Ticket Reservation System</h1>
+    <h1>Welcome to the Smart Attendence Management System System</h1>
     <p>This is a simple web application built using JSP and Maven.</p>
 
     <h3>What do you want to do?</h3>
